@@ -156,7 +156,7 @@ const deleteAll = () => {
 };
 
  return (
-    <div className="container my-4">
+    <div className="container my-4" style={{ borderRadius : "13px", backgroundColor: '#61ff61', padding: '44px' }}>
       <div className="row">
         <div className="col-12">
           <h2>{league.name}</h2>

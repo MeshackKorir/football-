@@ -16,7 +16,7 @@ function FinishedMatches({ allData }) {
     <>
       <h2>Finished Games</h2>
       <div className="table-responsive">
-        <table className="table table-striped table-sm">
+        <table className="table table-success table-sm">
           <thead>
             <tr>
             <th>ID</th>
